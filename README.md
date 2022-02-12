@@ -7,3 +7,4 @@ Software Requirement
 
 Software Screenshot
 ------------------------------------------------------
+![This is an image](https://github.com/wiseiotech/LabVIEW-Sound/blob/main/Screenshot/Sound_Acquire_Write_File.jpg)
